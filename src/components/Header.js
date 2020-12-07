@@ -10,7 +10,7 @@ export default function Header() {
     <View style={styles.head}>
       <Icon name='menu-fold' size={25} color='white' style={styles.menu} />
       <Text style={styles.headerTitle}>Square ToDo</Text>
-      <Icon name='menu-fold' size={25} color='white' style={styles.menu} />
+      <Icon name='setting' size={25} color='white' style={styles.menu} />
     </View>
   )
 }
