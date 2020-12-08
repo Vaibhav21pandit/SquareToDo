@@ -12,4 +12,5 @@ then install all required packages in package.json with
 $npm install
 ```
 a peek at what it is:
+
 ![output](https://github.com/Vaibhav21pandit/SquareToDo/blob/master/assets/output.gif)
